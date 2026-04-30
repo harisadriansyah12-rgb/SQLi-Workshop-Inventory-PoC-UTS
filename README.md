@@ -25,7 +25,7 @@ eksploitasi (Proof of Concept), hingga tahap mitigasi/perbaikan kode.
 ## Langkah Eksploitasi
 Detail langkah-langkah serangan mulai dari pencarian parameter rentan hingga
 ekstraksi data user dapat dilihat pada artikel Medium berikut:
-[Link Artikel Medium Anda]
+[[Link Artikel Medium Anda](https://medium.com/@harisadriansyah12/eksploitasi-sql-injection-pada-sistem-manajemen-inventaris-bengkel-jaya-4c6897c7ea3d)]
 ## Bukti Eksploitasi
 ![Dashboard Inventaris](images/dashboard.png)
 *Tangkapan layar sistem manajemen inventaris.*
