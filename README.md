@@ -2,11 +2,11 @@
 Dokumentasi ini dibuat sebagai bagian dari pemenuhan tugas mata kuliah Keamanan
 Informasi / Keamanan Siber.
 ## Informasi Mahasiswa
-- **Nama:** [MASUKKAN NAMA ANDA]
-- **NIM:** [MASUKKAN NIM ANDA]
-- **Kelas:** [MASUKKAN KELAS ANDA]
-- **Mata Kuliah:** [NAMA MATA KULIAH]
-- **Dosen Pengampu:** [NAMA DOSEN]
+- **Nama:** [HARIS ADRIANSYAH]
+- **NIM:** [312410286]
+- **Kelas:** [I.12.1D]
+- **Mata Kuliah:** [PEMOHRAMAN WEB]
+- **Dosen Pengampu:** Agung Nugroho, S.Kom., M.Kom.]
 ---
 ## Deskripsi Proyek
 Proyek ini membahas analisis kerentanan keamanan pada aplikasi inventaris
